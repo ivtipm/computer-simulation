@@ -1,1 +1,1 @@
-# computer-simulation
+# Компьютерное моделирование (computer simulation)
