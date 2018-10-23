@@ -3,9 +3,11 @@
 ## Примерная структура курса
 
 ### 1. Введение. 
+**CS. lec1.pdf**
   * модель, классификация, компьютерное моделирование
   
 ### 2. Математические возможности python
+**Python_math.pdf, Python_Data_visualization.pdf**
   * модули numpy, scipy. использование numpy array. 
   * scipy.stats
   * модуль pandas. DataFrame
@@ -23,8 +25,6 @@
 ### 4. Введение в моделирование систем массового обслуживания
 **CS. lec3_Queueing_theory.pdf**
 
-
-## Лекции
 
 
 
